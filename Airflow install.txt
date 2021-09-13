@@ -1,0 +1,26 @@
+sudo apt update 
+sudo apt install python3-pip python3-dev 
+sudo apt-get install python3-venv 
+python3 -m venv etlaiflowinsea  
+source etlaiflowinsea/bin/activate   
+python -m pip install --upgrade pip  
+pip install SQLAlchemy==1.3.23  
+sudo ufw allow ssh 	
+sudo ufw allow 8080 
+sudo ufw allow 8888 
+sudo ufw enable
+sudo ufw status 
+pip install flask
+pip install apache-airflow 
+airflow db init 
+airflow users create --username ys --firstname ys  --lastname  ys  --role Admin --email  yaitmalek@insea.ac.ma    
+
+source etlaiflowinsea/bin/activate
+#terminal1
+source etlaiflowinsea/bin/activate && airflow webserver
+
+#terminal2
+source etlaiflowinsea/bin/activate && airflow scheduler
+
+#terminal3
+source etlaiflowinsea/bin/activate && cd ~/airflow/ && mkdir dags

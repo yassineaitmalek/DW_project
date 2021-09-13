@@ -1,0 +1,61 @@
+CREATE TABLE IF NOT EXISTS "Students_db".student
+(
+    id integer NOT NULL,
+    first_name character varying NOT NULL,
+    last_name character varying NOT NULL,
+    email character varying NOT NULL,
+    filiere character varying NOT NULL,
+    PRIMARY KEY (id)
+    );
+
+CREATE TABLE IF NOT EXISTS "Students_db".professor
+(
+    id integer NOT NULL,
+    first_name character varying NOT NULL,
+    last_name character varying NOT NULL,
+    email character varying NOT NULL,
+    PRIMARY KEY (id)
+    );
+
+
+CREATE TABLE IF NOT EXISTS "Students_db".time
+(
+    id integer NOT NULL,
+    day date NOT NULL,
+    PRIMARY KEY (id)
+    );
+    
+
+CREATE TABLE IF NOT EXISTS "Students_db".subject
+(
+    id integer NOT NULL,
+    subname character varying NOT NULL,
+    id_prof integer NOT NULL,
+    PRIMARY KEY (id),
+     FOREIGN KEY (id_prof) REFERENCES "Students_db".professor(id)
+    );
+    
+    
+    
+    
+ CREATE TABLE IF NOT EXISTS "Students_db".student_abs
+(
+    id integer NOT NULL,
+    id_student integer NOT NULL,
+    id_subject integer NOT NULL,
+    id_time integer NOT NULL,
+    arrive_time time without time zone  NOT NULL,    
+    duration  time without time zone NOT NULL,
+    is_late boolean NOT NULL,
+    is_abs boolean NOT NULL,
+  
+    PRIMARY KEY (id),
+     FOREIGN KEY (id_time) REFERENCES "Students_db".time(id),
+     FOREIGN KEY (id_student) REFERENCES "Students_db".student(id),
+     FOREIGN KEY (id_subject) REFERENCES "Students_db".subject(id)
+     
+     
+    );    
+
+
+

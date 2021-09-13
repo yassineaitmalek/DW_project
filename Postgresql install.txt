@@ -1,0 +1,29 @@
+sudo apt-get install postgresql
+
+sudo mkdir -p /usr/local/pgsql/data 
+
+sudo chown -R postgres /usr/local/pgsql/
+
+sudo passwd postgres
+
+sudo systemctl stop postgresql
+
+su postgres
+
+cd /usr/lib/postgresql/12/bin/
+
+./initdb -D /usr/local/pgsql/data
+
+./pg_ctl -D /usr/local/pgsql/data -l /usr/local/pgsql/logfile start
+
+./psql
+
+ALTER USER postgres PASSWORD 'a';
+
+\q
+
+nano /usr/local/pgsql/data/pg_hba.conf
+
+./pg_ctl -D /usr/local/pgsql/data -l /usr/local/pgsql/logfile restart
+
+Insatallation de pgAdmin 

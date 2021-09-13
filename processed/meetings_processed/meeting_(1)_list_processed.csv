@@ -1,0 +1,91 @@
+first_name,last_name,date,arrive_time,departure_time,duration,email,role,subject
+Imade,BENELALLAM,2021/03/30,14:01:32,16:04:55,2:03:23,i.benelallam@insea.ac.ma,Organisateur,Data Warehouse
+Chaimaa,BELKARKOR,2021/03/30,14:01:40,16:06:37,2:04:57,cbelkarkor@insea.ac.ma,Presentateur,Data Warehouse
+Niima,CHIGR,2021/03/30,14:01:47,16:05:29,2:03:42,nchigr@insea.ac.ma,Presentateur,Data Warehouse
+Achraf,BALIJ,2021/03/30,14:02:06,16:05:04,2:02:58,abalij@insea.ac.ma,Presentateur,Data Warehouse
+Zakariae,JAAFARI,2021/03/30,14:02:09,16:05:03,2:02:54,zjaafari@insea.ac.ma,Presentateur,Data Warehouse
+Ibtihal,MOURAD,2021/03/30,14:02:10,16:04:58,2:02:48,imourad@insea.ac.ma,Presentateur,Data Warehouse
+Kawtar,BENSATTI,2021/03/30,14:02:10,16:05:03,2:02:53,kbensatti@insea.ac.ma,Presentateur,Data Warehouse
+Kawtar,BENSATTI,2021/03/30,16:22:43,16:22:43,0:00:00,kbensatti@insea.ac.ma,Presentateur,Data Warehouse
+Othmane,HABIB ALLAH,2021/03/30,14:02:14,16:05:14,2:03:00,ohabiballah@insea.ac.ma,Presentateur,Data Warehouse
+Abderrahim,EL BAHJI,2021/03/30,14:02:15,16:05:21,2:03:06,aelbahji@insea.ac.ma,Presentateur,Data Warehouse
+Fathiya,BANAH,2021/03/30,14:02:18,15:55:00,1:52:42,fbanah@insea.ac.ma,Presentateur,Data Warehouse
+Fathiya,BANAH,2021/03/30,15:57:04,16:05:18,0:08:14,fbanah@insea.ac.ma,Presentateur,Data Warehouse
+Amina,EZZOUINE,2021/03/30,14:02:20,14:46:14,0:43:54,aezzouine@insea.ac.ma,Presentateur,Data Warehouse
+Amina,EZZOUINE,2021/03/30,14:47:21,16:05:12,1:17:51,aezzouine@insea.ac.ma,Presentateur,Data Warehouse
+Mohamed,AMALLAH,2021/03/30,14:02:29,16:04:49,2:02:20,mamallah@insea.ac.ma,Presentateur,Data Warehouse
+Youssef,FADOUL,2021/03/30,14:02:31,16:05:07,2:02:36,yfadoul@insea.ac.ma,Presentateur,Data Warehouse
+Hajar,BOUDINAR,2021/03/30,14:02:33,16:05:01,2:02:28,hboudinar@insea.ac.ma,Presentateur,Data Warehouse
+Ayoub,LAACHIR,2021/03/30,14:02:43,16:05:07,2:02:24,alaachir@insea.ac.ma,Presentateur,Data Warehouse
+Nohaila,CHAHBOUN,2021/03/30,14:02:50,16:05:02,2:02:12,nchahboun@insea.ac.ma,Presentateur,Data Warehouse
+Tarik,MAJJATI,2021/03/30,14:02:51,14:37:36,0:34:45,tmajjati@insea.ac.ma,Presentateur,Data Warehouse
+Tarik,MAJJATI,2021/03/30,14:40:46,16:04:58,1:24:12,tmajjati@insea.ac.ma,Presentateur,Data Warehouse
+Hamza,DAH,2021/03/30,14:02:52,15:55:28,1:52:36,hdah@insea.ac.ma,Presentateur,Data Warehouse
+Amal,MAKRANE,2021/03/30,14:02:58,16:05:33,2:02:35,amakrane@insea.ac.ma,Presentateur,Data Warehouse
+Soukaina,DAOUAJI,2021/03/30,14:02:58,16:05:07,2:02:09,sdaouaji@insea.ac.ma,Presentateur,Data Warehouse
+Amine,ELOMAIRI,2021/03/30,14:02:59,14:24:14,0:21:15,aelomairi@insea.ac.ma,Presentateur,Data Warehouse
+Mahamadou,SANGARE,2021/03/30,14:03:05,16:06:45,2:03:40,msangare@insea.ac.ma,Presentateur,Data Warehouse
+Amine,AJARRAY,2021/03/30,14:03:08,16:04:58,2:01:50,aajarray@insea.ac.ma,Presentateur,Data Warehouse
+Hajar,HOUMANE,2021/03/30,14:03:08,16:05:41,2:02:33,hhoumane@insea.ac.ma,Presentateur,Data Warehouse
+Idrissa,KONKOBO,2021/03/30,14:03:16,16:05:56,2:02:40,ikonkobo@insea.ac.ma,Presentateur,Data Warehouse
+Mohamed,AGOURAM,2021/03/30,14:03:22,16:05:08,2:01:46,magouram@insea.ac.ma,Presentateur,Data Warehouse
+Youssef-Amine,KHALLOUQ,2021/03/30,14:03:25,16:05:04,2:01:39,yakhallouq@insea.ac.ma,Presentateur,Data Warehouse
+Zineb,RHOSNE,2021/03/30,14:03:31,16:05:05,2:01:34,zrhosne@insea.ac.ma,Presentateur,Data Warehouse
+Soufiane,MELLAK,2021/03/30,14:03:31,16:04:57,2:01:26,smellak@insea.ac.ma,Presentateur,Data Warehouse
+Fadwa,DANI,2021/03/30,14:03:32,16:05:14,2:01:42,fdani@insea.ac.ma,Presentateur,Data Warehouse
+Sabah,BOUKILI,2021/03/30,14:03:45,16:08:29,2:04:44,sboukili@insea.ac.ma,Presentateur,Data Warehouse
+Anas,OUBAHA,2021/03/30,14:03:51,16:04:54,2:01:03,aoubaha@insea.ac.ma,Presentateur,Data Warehouse
+Hamza,GAOUI,2021/03/30,14:04:02,16:07:01,2:02:59,hgaoui@insea.ac.ma,Presentateur,Data Warehouse
+Hibatallah,BOUNAR,2021/03/30,14:04:04,16:05:00,2:00:56,hbounar@insea.ac.ma,Presentateur,Data Warehouse
+Chaymae,BOUZOUF,2021/03/30,14:04:07,14:29:42,0:25:35,cbouzouf@insea.ac.ma,Presentateur,Data Warehouse
+Chaymae,BOUZOUF,2021/03/30,14:32:21,16:05:04,1:32:43,cbouzouf@insea.ac.ma,Presentateur,Data Warehouse
+Abdoul-Madjid,SANOUSSI LABO,2021/03/30,14:04:23,16:05:16,2:00:53,amsanoussilabo@insea.ac.ma,Presentateur,Data Warehouse
+Andre,SINARE,2021/03/30,14:04:23,16:05:21,2:00:58,asinare@insea.ac.ma,Presentateur,Data Warehouse
+Yassine,AIT MALEK,2021/03/30,14:04:29,16:05:22,2:00:53,yaitmalek@insea.ac.ma,Presentateur,Data Warehouse
+Hafsa,MEHDIOUI,2021/03/30,14:04:32,16:05:02,2:00:30,hmehdioui@insea.ac.ma,Presentateur,Data Warehouse
+Chaimaa,ATRAOUI,2021/03/30,14:04:33,16:07:58,2:03:25,catraoui@insea.ac.ma,Presentateur,Data Warehouse
+Salaheddine,EL MOUSLIH,2021/03/30,14:04:33,16:04:56,2:00:23,selmouslih@insea.ac.ma,Presentateur,Data Warehouse
+Hafsa,EL MOUHSINE,2021/03/30,14:04:56,16:05:39,2:00:43,helmouhsine@insea.ac.ma,Presentateur,Data Warehouse
+Akram,EL FADILI,2021/03/30,14:05:19,15:22:58,1:17:39,aelfadili@insea.ac.ma,Presentateur,Data Warehouse
+Akram,EL FADILI,2021/03/30,15:25:24,16:05:03,0:39:39,aelfadili@insea.ac.ma,Presentateur,Data Warehouse
+Salah-eddine,AOUARI,2021/03/30,14:05:23,16:05:03,1:59:40,seaouari@insea.ac.ma,Presentateur,Data Warehouse
+Abdelakbir,MENANI,2021/03/30,14:05:23,15:06:35,1:01:12,amenani@insea.ac.ma,Presentateur,Data Warehouse
+Oussama,OUCOUC,2021/03/30,14:05:27,16:05:03,1:59:36,ooucouc@insea.ac.ma,Presentateur,Data Warehouse
+Yassine,ZOUHRI,2021/03/30,14:05:40,15:40:13,1:34:33,yzouhri@insea.ac.ma,Presentateur,Data Warehouse
+Yassine,ZOUHRI,2021/03/30,15:48:31,16:04:57,0:16:26,yzouhri@insea.ac.ma,Presentateur,Data Warehouse
+Yasmine,ELHILALI,2021/03/30,14:05:49,16:05:07,1:59:18,yelhilali@insea.ac.ma,Presentateur,Data Warehouse
+Saifeddine,ELHAIRECH,2021/03/30,14:05:57,16:05:02,1:59:05,selhairech@insea.ac.ma,Presentateur,Data Warehouse
+El mehdi,SOUMMER,2021/03/30,14:05:58,16:04:55,1:58:57,esoummer@insea.ac.ma,Presentateur,Data Warehouse
+Soufyane,ATICHE,2021/03/30,14:06:22,14:21:33,0:15:11,satiche@insea.ac.ma,Presentateur,Data Warehouse
+Soufyane,ATICHE,2021/03/30,14:22:43,16:04:58,1:42:15,satiche@insea.ac.ma,Presentateur,Data Warehouse
+Hala,EL OUAFI,2021/03/30,14:06:29,16:05:04,1:58:35,helouafi@insea.ac.ma,Presentateur,Data Warehouse
+Othmane,LAABADIA,2021/03/30,14:07:16,16:04:59,1:57:43,olaabadia@insea.ac.ma,Presentateur,Data Warehouse
+Aicha,MAMAN SOULEY,2021/03/30,14:07:19,16:05:03,1:57:44,amamansouley@insea.ac.ma,Presentateur,Data Warehouse
+Soukaina,ZARROUQ,2021/03/30,14:07:20,16:34:10,2:26:50,szarrouq@insea.ac.ma,Presentateur,Data Warehouse
+Yassine,AMAGHOSS,2021/03/30,14:07:39,16:04:57,1:57:18,yamaghoss@insea.ac.ma,Presentateur,Data Warehouse
+Asma,OUSSAR,2021/03/30,14:07:59,16:05:16,1:57:17,aoussar@insea.ac.ma,Presentateur,Data Warehouse
+Imane,BELMEZOUAR,2021/03/30,14:09:05,16:06:26,1:57:21,ibelmezouar@insea.ac.ma,Presentateur,Data Warehouse
+Imane,BELMEZOUAR,2021/03/30,16:17:04,16:17:16,0:00:12,ibelmezouar@insea.ac.ma,Presentateur,Data Warehouse
+Oussama,LAMHAMDI ALAOUI,2021/03/30,14:09:09,16:04:59,1:55:50,olamhamdialaoui@insea.ac.ma,Presentateur,Data Warehouse
+Soukayna,EL HASNAOUI,2021/03/30,14:09:33,16:05:17,1:55:44,selhasnaoui@insea.ac.ma,Presentateur,Data Warehouse
+Mohamed-amine,FARFAOUA,2021/03/30,14:11:18,16:05:42,1:54:24,mafarfaoua@insea.ac.ma,Presentateur,Data Warehouse
+Oussama,YOUSR,2021/03/30,14:11:19,16:04:51,1:53:32,oyousr@insea.ac.ma,Presentateur,Data Warehouse
+Aicha,EL KASSMI,2021/03/30,14:12:02,16:05:13,1:53:11,aelkassmi@insea.ac.ma,Presentateur,Data Warehouse
+Hajar,CHAFAI,2021/03/30,14:13:19,16:39:31,2:26:12,hchafai@insea.ac.ma,Presentateur,Data Warehouse
+Yassine,SADKI,2021/03/30,14:14:00,16:05:22,1:51:22,ysadki@insea.ac.ma,Presentateur,Data Warehouse
+Moussa,SIDIBE,2021/03/30,14:15:02,16:05:15,1:50:13,msidibe@insea.ac.ma,Presentateur,Data Warehouse
+Rida,OUHMIZ,2021/03/30,14:15:11,16:05:17,1:50:06,rouhmiz@insea.ac.ma,Presentateur,Data Warehouse
+Khaoula,KAJJA,2021/03/30,14:17:44,16:05:09,1:47:25,kkajja@insea.ac.ma,Presentateur,Data Warehouse
+Chaimae,BENALLAL HASSANI,2021/03/30,14:17:53,14:55:48,0:37:55,cbenallalhassani@insea.ac.ma,Presentateur,Data Warehouse
+Chaimae,BENALLAL HASSANI,2021/03/30,14:56:48,15:42:49,0:46:01,cbenallalhassani@insea.ac.ma,Presentateur,Data Warehouse
+Chaimae,BENALLAL HASSANI,2021/03/30,16:25:09,16:25:12,0:00:03,cbenallalhassani@insea.ac.ma,Presentateur,Data Warehouse
+Hamza,LAGRAMEZ,2021/03/30,14:18:25,15:13:43,0:55:18,hlagramez@insea.ac.ma,Presentateur,Data Warehouse
+Hamza,LAGRAMEZ,2021/03/30,15:33:52,16:05:17,0:31:25,hlagramez@insea.ac.ma,Presentateur,Data Warehouse
+Taqy-eddine,BOUZELMAD,2021/03/30,14:21:48,16:58:08,2:36:20,tebouzelmad@insea.ac.ma,Presentateur,Data Warehouse
+Saad,MAATOUF,2021/03/30,14:22:23,16:06:08,1:43:45,smaatouf@insea.ac.ma,Presentateur,Data Warehouse
+Younes,AIT M'HA,2021/03/30,14:29:49,16:05:26,1:35:37,yaitmha@insea.ac.ma,Presentateur,Data Warehouse
+Achraf,RAMOUDI,2021/03/30,14:38:27,16:12:48,1:34:21,aramoudi@insea.ac.ma,Presentateur,Data Warehouse
+Youness,MOUZAKI,2021/03/30,15:17:52,16:05:02,0:47:10,ymouzaki@insea.ac.ma,Presentateur,Data Warehouse
+Hamdi,HABBOUZA,2021/03/30,15:24:12,16:08:04,0:43:52,hhabbouza@insea.ac.ma,Presentateur,Data Warehouse
+Ayoub,ELHADINE,2021/03/30,15:28:27,16:01:32,0:33:05,aelhadine@insea.ac.ma,Presentateur,Data Warehouse
+Ayoub,ELHADINE,2021/03/30,16:02:51,16:05:03,0:02:12,aelhadine@insea.ac.ma,Presentateur,Data Warehouse
